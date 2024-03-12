@@ -1,5 +1,7 @@
 # Projeto simples de Chat BOT com OPEN AI e Next
 
+![alt text](image.png)
+
 ## Como rodar o projeto
 
 ```bash
